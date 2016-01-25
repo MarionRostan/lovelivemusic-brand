@@ -1,0 +1,2 @@
+Main orange : #f99e26
+Main green (pistache) : #96e497
